@@ -1,5 +1,8 @@
 _repo: A-Vagabond-in-the-Caucasus-With-Some-Notes-of-His-Experiences-Among-the-Russians_58932
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58932-h/images/cover.jpg
 creator:
   author:
     agent_name: Graham, Stephen
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4157
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58932#A-Vagabond-in-the-Caucasus-With-Some-Notes-of-His-Experiences-Among-the-Russians
 gutenberg_issued: '2019-02-21'
 gutenberg_type: Text
 identifiers:
